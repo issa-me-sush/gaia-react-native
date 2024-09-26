@@ -3,7 +3,7 @@
 ## How to run the app
 
 - ``` Clone the repository```
-- ```cd react_native_template```
+- ```cd gaia-react-native```
 -  ```npm i ``` 
 - for ios:
 ``` 
