@@ -22,7 +22,7 @@ target 'gaia_react_native' do
     # An absolute path to your application root.
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
-  pod 'DoubleConversion', :podspec => '../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec'
+  # pod 'DoubleConversion', :path => '../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec'
   target 'gaia_react_nativeTests' do
     inherit! :complete
     # Pods for testing
