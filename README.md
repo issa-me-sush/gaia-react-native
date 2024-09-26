@@ -5,7 +5,8 @@
 - ``` Clone the repository```
 - ```cd react_native_template```
 -  ```npm i ``` 
-- ``` 
+- for ios:
+``` 
 cd ios
 pod deintegrate
 pod install
@@ -14,7 +15,7 @@ npx react-native run-ios
 ```
 
 for android:
-```npx react-native run-android```
+- ```npx react-native run-android```
 
 ### there you go ! plug in any url in the .env file :
 
