@@ -2,11 +2,10 @@
 
 ## How to run the app
 
-1.``` Clone the repository```
-2.```cd react_native_template```
-3. ```npm i ``` 
-4. 
-``` 
+- ``` Clone the repository```
+- ```cd react_native_template```
+-  ```npm i ``` 
+- ``` 
 cd ios
 pod deintegrate
 pod install
